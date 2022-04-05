@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Roya EMIRATES",Roya TV
-http://www.elahmad.com/tv/arabic-tv-online.php?id=45
+#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | ROYA TV (1920×1080)
+https://roya-live.ercdn.net/roya/roya.m3u8
