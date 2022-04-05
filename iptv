@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | ROYA TV (720p)
-https://weyyak-live.akamaized.net:443/weyyak_roya/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI ONE HD
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+https://weyyak-live.akamaized.net:443/weyyak_roya/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",NOOR DUBAI HD
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",SAMA DUBAI
