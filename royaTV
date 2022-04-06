@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | ROYA TV (720)
-https://roya-live.ercdn.net/roya/roya_720p.m3u8?st=sfhFWBDlzWwtF9PemcKd7w&e=1649236881
 #EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | ROYA TV (480)
-https://roya-live.ercdn.net/roya/roya_480p.m3u8?st=3ArSfVag1ex_Dg-RXIvfwQ&e=1649269092
+https://roya-live.ercdn.net/roya/roya_480p.m3u8?st=h-O2mA52z78k7f7qHGvMcA&e=1649346502
 #EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | ROYA TV (adabptive)
-https://roya-live.ercdn.net/roya/roya.m3u8?st=sfhFWBDlzWwtF9PemcKd7w&e=1649236881
-
-
+https://weyyak-live.akamaized.net:443/weyyak_roya/tracks-v1a1/mono.m3u8
 
 
 
